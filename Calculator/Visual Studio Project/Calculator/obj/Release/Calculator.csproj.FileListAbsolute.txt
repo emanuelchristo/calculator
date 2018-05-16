@@ -1,0 +1,9 @@
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\Emanuel Christo\Google Drive\MAD\Visual Studio Projects\Calculator\Calculator\obj\Release\Calculator.pdb
